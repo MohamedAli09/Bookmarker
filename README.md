@@ -2,6 +2,9 @@
 
 Bookmarker is a web application designed to help users save their favorite websites for easy access. Users can add bookmarks by entering the website name and URL, with the app providing validation for both. Saved bookmarks are displayed in a table, offering options to visit the sites or delete them.
 
+**Live Demo:** [Bookmarker Demo](https://mohamedali09.github.io/Bookmarker/)
+
+
 ## Table of Contents
 
 - [Overall Functionality](#overall-functionality)
